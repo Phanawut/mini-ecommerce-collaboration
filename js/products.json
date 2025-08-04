@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Classic T-Shirt",
+        "price": 499,
+        "image": "https://madamenluxury.com/wp-content/uploads/2023/05/6-min.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Running Shoes",
+        "price": 1200,
+        "image": "https://cdn.thewirecutter.com/wp-content/media/2024/11/runningshoes-2048px-09517.jpg?auto=webp&quality=75&width=1024"
+    },
+    {
+        "id": 3,
+        "name": "Smart Watch",
+        "price": 3500,
+        "image": "https://mediam.dotlife.store/media/catalog/product/cache/3b7e899159f673788675d87d1d929a98/a/p/apple_watch_series_10_46mm_gps_jet_black_alu_sport_band_black_001_1.jpg?auto=webp&format=pjpg&width=840&height=375&fit=cover"
+    },
+    {
+        "id": 4,
+        "name": "Denim Jeans",
+        "price": 990,
+        "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/206781s.jpg?im=Resize,width=750"
+    },
+    {
+        "id": 5,
+        "name": "Leather Backpack ",
+        "price": 1850,
+        "image": "https://i.ebayimg.com/images/g/TTYAAOSwHWhnQtDP/s-l400.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sunglasses",
+        "price": 750,
+        "image": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw4c8b1d7b/images/large/a7803ce9cb6b5b17aec0b57e3527504f.png?sw=750&sh=750&sm=fit&sfrm=png"
+    }
+]
